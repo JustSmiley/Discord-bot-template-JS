@@ -1,0 +1,16 @@
+Discord bot template
+simple code to start a bot
+
+
+This is a simple bot template
+Remember to do:
+____________________________
+
+npm i discord.js
+npm i node.js
+
+____________________________
+
+set bot token and prefix
+
+____________________________

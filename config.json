@@ -1,5 +1,5 @@
 {
-    "token":"Bot token here",
-    "prefix": "prefix here"
+    "token":"Bot's token here",
+    "prefix": "Bot's prefix here"
 
 }
